@@ -1,0 +1,93 @@
+/* CSS Color Scheme for dB Levels */
+.color-legend-container {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+  display: grid;
+  grid-template: min-content 1fr / 1fr;
+  gap: 8px;
+  max-width: 1200px;
+  margin: auto;
+  border: 1px solid #dddddd00;
+  border-radius: 8px;
+  background-color: #f9f9f900;
+}
+
+.legend-items {
+  display: grid;
+  gap: 4px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  margin-top: 8px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.color-box {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 4px;
+}
+
+/* dB <= 35 */
+.color-35 {
+  background-color: #b7ce8e;
+}
+
+/* 35 < dB <= 40 */
+.color-40 {
+  background-color: #1d8435;
+}
+
+/* 40 < dB <= 45 */
+.color-45 {
+  background-color: #0e4c3c;
+}
+
+/* 45 < dB <= 50 */
+.color-50 {
+  background-color: #ecd721;
+}
+
+/* 50 < dB <= 55 */
+.color-55 {
+  background-color: #9f6f2c;
+}
+
+/* 55 < dB <= 60 */
+.color-60 {
+  background-color: #ef7926;
+}
+
+/* 60 < dB <= 65 */
+.color-65 {
+  background-color: #c71932;
+}
+
+/* 65 < dB <= 70 */
+.color-70 {
+  background-color: #8d1a27;
+}
+
+/* 70 < dB <= 75 */
+.color-75 {
+  background-color: #88497b;
+}
+
+/* 75 < dB <= 80 */
+.color-80 {
+  background-color: #18558c;
+}
+
+/* dB > 80 */
+.color-high {
+  background-color: #134367;
+}
+
+.instructions {
+  align-self: end;
+}

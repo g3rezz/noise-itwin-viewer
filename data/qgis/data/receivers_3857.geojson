@@ -1,0 +1,6580 @@
+{
+  "type": "FeatureCollection",
+  "name": "Receivers_3857",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::3857" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 0,
+        "id_bui": 0,
+        "facadeP": 15.32,
+        "height_m": 0,
+        "Lden": 87.0,
+        "Lnight": 67.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674508.848417114466429, 6583455.819448973983526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 1,
+        "id_bui": 0,
+        "facadeP": 1.54,
+        "height_m": 0,
+        "Lden": 84.3,
+        "Lnight": 64.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674469.901981025934219, 6583496.102360244840384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 2,
+        "id_bui": 0,
+        "facadeP": 35.84,
+        "height_m": 0,
+        "Lden": 68.9,
+        "Lnight": 58.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674517.999387996271253, 6583485.519534323364496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 3,
+        "id_bui": 0,
+        "facadeP": 19.14,
+        "height_m": 0,
+        "Lden": 66.2,
+        "Lnight": 53.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674556.98803399852477, 6583445.242221273481846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 4,
+        "id_bui": 1,
+        "facadeP": 16.08,
+        "height_m": 0,
+        "Lden": 86.4,
+        "Lnight": 66.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674605.600080977310427, 6583381.54719706159085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 5,
+        "id_bui": 1,
+        "facadeP": 2.7,
+        "height_m": 0,
+        "Lden": 85.1,
+        "Lnight": 65.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674569.499133039964363, 6583414.768083435483277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 6,
+        "id_bui": 1,
+        "facadeP": 36.07,
+        "height_m": 0,
+        "Lden": 45.6,
+        "Lnight": 27.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674614.053702512057498, 6583410.930027783848345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 7,
+        "id_bui": 1,
+        "facadeP": 18.8,
+        "height_m": 0,
+        "Lden": 66.2,
+        "Lnight": 47.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674650.186371127841994, 6583377.703319394960999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 8,
+        "id_bui": 2,
+        "facadeP": 26.17,
+        "height_m": 0,
+        "Lden": 41.6,
+        "Lnight": 31.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674604.428842178662308, 6583428.809275070205331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 9,
+        "id_bui": 2,
+        "facadeP": 26.43,
+        "height_m": 0,
+        "Lden": 63.6,
+        "Lnight": 53.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674596.041461742017418, 6583443.543416859582067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 10,
+        "id_bui": 2,
+        "facadeP": 25.76,
+        "height_m": 0,
+        "Lden": 36.5,
+        "Lnight": 26.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674618.742354250396602, 6583437.533809048123658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 11,
+        "id_bui": 3,
+        "facadeP": 13.59,
+        "height_m": 0,
+        "Lden": 37.1,
+        "Lnight": 27.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674661.916277514654212, 6583439.270086652599275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 12,
+        "id_bui": 3,
+        "facadeP": 2.64,
+        "height_m": 0,
+        "Lden": 67.2,
+        "Lnight": 57.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674602.271905861562118, 6583467.149845186620951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 13,
+        "id_bui": 3,
+        "facadeP": 42.0,
+        "height_m": 0,
+        "Lden": 72.5,
+        "Lnight": 62.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674668.482257204828784, 6583463.348949118517339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 14,
+        "id_bui": 3,
+        "facadeP": 7.88,
+        "height_m": 0,
+        "Lden": 67.3,
+        "Lnight": 57.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674728.125822475063615, 6583435.468826902098954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 15,
+        "id_bui": 4,
+        "facadeP": 18.4,
+        "height_m": 0,
+        "Lden": 85.1,
+        "Lnight": 65.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674703.589128004387021, 6583323.263080272823572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 16,
+        "id_bui": 4,
+        "facadeP": 4.37,
+        "height_m": 0,
+        "Lden": 83.0,
+        "Lnight": 63.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674672.486456747166812, 6583349.723378334194422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 17,
+        "id_bui": 4,
+        "facadeP": 36.29,
+        "height_m": 0,
+        "Lden": 28.4,
+        "Lnight": 18.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674710.318324697203934, 6583349.40706736035645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 18,
+        "id_bui": 4,
+        "facadeP": 17.67,
+        "height_m": 0,
+        "Lden": 58.6,
+        "Lnight": 43.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674741.44299686269369, 6583322.936982405371964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 19,
+        "id_bui": 5,
+        "facadeP": 9.8,
+        "height_m": 0,
+        "Lden": 82.5,
+        "Lnight": 62.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674817.39815436291974, 6583264.825787590816617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 20,
+        "id_bui": 5,
+        "facadeP": 3.74,
+        "height_m": 0,
+        "Lden": 52.5,
+        "Lnight": 42.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674772.974532169057056, 6583311.2462322358042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 21,
+        "id_bui": 5,
+        "facadeP": 34.62,
+        "height_m": 0,
+        "Lden": 47.1,
+        "Lnight": 37.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674835.31067072332371, 6583316.434759655967355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 22,
+        "id_bui": 5,
+        "facadeP": 19.52,
+        "height_m": 0,
+        "Lden": 63.8,
+        "Lnight": 53.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674879.749917397042736, 6583269.996660900302231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 23,
+        "id_bui": 6,
+        "facadeP": 11.99,
+        "height_m": 0,
+        "Lden": 45.1,
+        "Lnight": 35.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674755.558245874592103, 6583365.622023493051529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 24,
+        "id_bui": 6,
+        "facadeP": 23.68,
+        "height_m": 0,
+        "Lden": 60.4,
+        "Lnight": 50.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674749.535854147514328, 6583391.787591801956296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 25,
+        "id_bui": 6,
+        "facadeP": 33.34,
+        "height_m": 0,
+        "Lden": 38.1,
+        "Lnight": 28.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674772.529077588929795, 6583386.244137918576598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 26,
+        "id_bui": 7,
+        "facadeP": 19.02,
+        "height_m": 0,
+        "Lden": 39.9,
+        "Lnight": 29.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674790.125080769998021, 6583406.157320162281394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 27,
+        "id_bui": 7,
+        "facadeP": 6.73,
+        "height_m": 0,
+        "Lden": 67.5,
+        "Lnight": 57.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674758.666946981335059, 6583427.343174241483212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 28,
+        "id_bui": 7,
+        "facadeP": 36.78,
+        "height_m": 0,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674796.556614532833919, 6583431.082918242551386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 29,
+        "id_bui": 8,
+        "facadeP": 17.89,
+        "height_m": 0,
+        "Lden": 37.7,
+        "Lnight": 27.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674861.822588188457303, 6583387.76340373698622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 30,
+        "id_bui": 8,
+        "facadeP": 38.2,
+        "height_m": 0,
+        "Lden": 72.6,
+        "Lnight": 62.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674869.362165211932734, 6583412.439429424703121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 31,
+        "id_bui": 8,
+        "facadeP": 12.29,
+        "height_m": 0,
+        "Lden": 67.5,
+        "Lnight": 57.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674903.359498044941574, 6583390.247111105360091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 32,
+        "id_bui": 9,
+        "facadeP": 16.38,
+        "height_m": 0,
+        "Lden": 41.7,
+        "Lnight": 31.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674811.742642249213532, 6583351.571545467711985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 33,
+        "id_bui": 9,
+        "facadeP": 40.78,
+        "height_m": 0,
+        "Lden": 34.3,
+        "Lnight": 24.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674819.2088353355648, 6583374.713496967218816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 34,
+        "id_bui": 10,
+        "facadeP": 11.67,
+        "height_m": 0,
+        "Lden": 49.9,
+        "Lnight": 39.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674867.994554320117459, 6583337.092069105245173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 35,
+        "id_bui": 10,
+        "facadeP": 33.09,
+        "height_m": 0,
+        "Lden": 62.4,
+        "Lnight": 52.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674889.565394760924391, 6583356.14238868188113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 36,
+        "id_bui": 11,
+        "facadeP": 6.37,
+        "height_m": 0,
+        "Lden": 80.5,
+        "Lnight": 61.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674899.625754904467613, 6583222.472290519624949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 37,
+        "id_bui": 11,
+        "facadeP": 20.07,
+        "height_m": 0,
+        "Lden": 59.4,
+        "Lnight": 49.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674901.928429598454386, 6583260.573686119168997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 38,
+        "id_bui": 11,
+        "facadeP": 11.71,
+        "height_m": 0,
+        "Lden": 53.5,
+        "Lnight": 43.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674924.843377583660185, 6583289.835541605018079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 39,
+        "id_bui": 11,
+        "facadeP": 38.61,
+        "height_m": 0,
+        "Lden": 50.1,
+        "Lnight": 40.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674922.547743722097948, 6583251.731731970794499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 40,
+        "id_bui": 12,
+        "facadeP": 27.02,
+        "height_m": 0,
+        "Lden": 48.9,
+        "Lnight": 38.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674945.581198108149692, 6583258.724660671316087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 41,
+        "id_bui": 12,
+        "facadeP": 32.75,
+        "height_m": 0,
+        "Lden": 47.3,
+        "Lnight": 37.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674953.19374795537442, 6583278.388420227915049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 42,
+        "id_bui": 12,
+        "facadeP": 17.75,
+        "height_m": 0,
+        "Lden": 44.2,
+        "Lnight": 34.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674967.368804646772332, 6583260.928957872092724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 43,
+        "id_bui": 13,
+        "facadeP": 15.47,
+        "height_m": 0,
+        "Lden": 77.1,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674990.117306162370369, 6583176.809795135632157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 44,
+        "id_bui": 13,
+        "facadeP": 10.35,
+        "height_m": 0,
+        "Lden": 53.0,
+        "Lnight": 43.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674973.524417595122941, 6583207.281733696348965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 45,
+        "id_bui": 13,
+        "facadeP": 29.39,
+        "height_m": 0,
+        "Lden": 27.4,
+        "Lnight": 17.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675007.522072318708524, 6583212.19443556945771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 46,
+        "id_bui": 13,
+        "facadeP": 21.17,
+        "height_m": 0,
+        "Lden": 51.7,
+        "Lnight": 41.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675024.119539643987082, 6583181.721372555941343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 47,
+        "id_bui": 14,
+        "facadeP": 12.44,
+        "height_m": 0,
+        "Lden": 52.9,
+        "Lnight": 42.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674936.763060460332781, 6583316.911674092523754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 48,
+        "id_bui": 14,
+        "facadeP": 23.97,
+        "height_m": 0,
+        "Lden": 63.7,
+        "Lnight": 53.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674933.847219449118711, 6583342.57378001511097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 49,
+        "id_bui": 15,
+        "facadeP": 12.71,
+        "height_m": 0,
+        "Lden": 67.5,
+        "Lnight": 57.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674946.250512584345415, 6583375.24913817923516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 50,
+        "id_bui": 15,
+        "facadeP": 33.25,
+        "height_m": 0,
+        "Lden": 71.9,
+        "Lnight": 61.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674971.804033582215197, 6583379.18194386921823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 51,
+        "id_bui": 16,
+        "facadeP": 23.22,
+        "height_m": 0,
+        "Lden": 37.4,
+        "Lnight": 27.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675009.350368934101425, 6583343.357744864188135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 52,
+        "id_bui": 16,
+        "facadeP": 34.38,
+        "height_m": 0,
+        "Lden": 72.6,
+        "Lnight": 62.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675018.499329521902837, 6583364.771105630323291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 53,
+        "id_bui": 16,
+        "facadeP": 15.24,
+        "height_m": 0,
+        "Lden": 67.9,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675038.072727918741293, 6583344.239379639737308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 54,
+        "id_bui": 17,
+        "facadeP": 10.49,
+        "height_m": 0,
+        "Lden": 30.8,
+        "Lnight": 20.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675002.181798710487783, 6583291.793060433119535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 55,
+        "id_bui": 17,
+        "facadeP": 22.97,
+        "height_m": 0,
+        "Lden": 38.9,
+        "Lnight": 28.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675001.011581924394704, 6583319.405551674775779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 56,
+        "id_bui": 17,
+        "facadeP": 33.73,
+        "height_m": 0,
+        "Lden": 61.9,
+        "Lnight": 51.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675023.475421390379779, 6583310.750504779629409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 57,
+        "id_bui": 18,
+        "facadeP": 22.81,
+        "height_m": 0,
+        "Lden": 46.4,
+        "Lnight": 36.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674969.676524116075598, 6583304.353473498485982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 58,
+        "id_bui": 18,
+        "facadeP": 33.59,
+        "height_m": 0,
+        "Lden": 35.5,
+        "Lnight": 25.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674978.364242627518252, 6583327.096556697972119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 59,
+        "id_bui": 19,
+        "facadeP": 10.32,
+        "height_m": 0,
+        "Lden": 60.6,
+        "Lnight": 50.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675075.318603154271841, 6583130.634148756042123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 60,
+        "id_bui": 19,
+        "facadeP": 7.87,
+        "height_m": 0,
+        "Lden": 48.6,
+        "Lnight": 38.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675057.050522150471807, 6583177.833541322499514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 61,
+        "id_bui": 19,
+        "facadeP": 28.98,
+        "height_m": 0,
+        "Lden": 50.2,
+        "Lnight": 40.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675109.531307477736846, 6583179.427675847895443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 62,
+        "id_bui": 19,
+        "facadeP": 18.8,
+        "height_m": 0,
+        "Lden": 62.5,
+        "Lnight": 52.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675127.790011425735429, 6583132.237263927236199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 63,
+        "id_bui": 20,
+        "facadeP": 10.43,
+        "height_m": 0,
+        "Lden": 46.3,
+        "Lnight": 36.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675049.882498319377191, 6583262.918494550511241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 64,
+        "id_bui": 20,
+        "facadeP": 21.88,
+        "height_m": 0,
+        "Lden": 61.5,
+        "Lnight": 51.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675050.888101310702041, 6583293.479149493388832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 65,
+        "id_bui": 20,
+        "facadeP": 34.56,
+        "height_m": 0,
+        "Lden": 37.7,
+        "Lnight": 27.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675071.931688307086006, 6583280.694829122163355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 66,
+        "id_bui": 21,
+        "facadeP": 20.14,
+        "height_m": 0,
+        "Lden": 39.9,
+        "Lnight": 29.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675087.811173862195574, 6583302.248967608436942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 67,
+        "id_bui": 21,
+        "facadeP": 8.66,
+        "height_m": 0,
+        "Lden": 67.8,
+        "Lnight": 57.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675068.249601009301841, 6583328.424065568484366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 68,
+        "id_bui": 21,
+        "facadeP": 35.06,
+        "height_m": 0,
+        "Lden": 72.5,
+        "Lnight": 62.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675100.227621842524968, 6583325.411790705285966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 69,
+        "id_bui": 22,
+        "facadeP": 17.23,
+        "height_m": 0,
+        "Lden": 37.5,
+        "Lnight": 27.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675148.006699631805532, 6583266.027166031301022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 70,
+        "id_bui": 22,
+        "facadeP": 38.44,
+        "height_m": 0,
+        "Lden": 72.4,
+        "Lnight": 62.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675161.774687704513781, 6583288.469404322095215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 71,
+        "id_bui": 22,
+        "facadeP": 11.54,
+        "height_m": 0,
+        "Lden": 67.9,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675190.160028870450333, 6583255.162677261047065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 72,
+        "id_bui": 23,
+        "facadeP": 9.79,
+        "height_m": 0,
+        "Lden": 51.1,
+        "Lnight": 41.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675140.242078013718128, 6583206.791462825611234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 73,
+        "id_bui": 23,
+        "facadeP": 22.31,
+        "height_m": 0,
+        "Lden": 34.3,
+        "Lnight": 24.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675146.488617512397468, 6583234.984341136179864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 74,
+        "id_bui": 23,
+        "facadeP": 34.76,
+        "height_m": 0,
+        "Lden": 62.8,
+        "Lnight": 52.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675166.988430339260958, 6583222.671662300825119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 75,
+        "id_bui": 24,
+        "facadeP": 17.41,
+        "height_m": 0,
+        "Lden": 43.3,
+        "Lnight": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675095.203839701018296, 6583234.570369887165725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 76,
+        "id_bui": 25,
+        "facadeP": 26.12,
+        "height_m": 0,
+        "Lden": 35.9,
+        "Lnight": 25.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675104.788794085383415, 6583274.719552158378065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 77,
+        "id_bui": 25,
+        "facadeP": 28.4,
+        "height_m": 0,
+        "Lden": 34.9,
+        "Lnight": 24.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675124.893220943165943, 6583262.308425625786185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 78,
+        "id_bui": 26,
+        "facadeP": 10.43,
+        "height_m": 0,
+        "Lden": 80.1,
+        "Lnight": 60.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675178.374120764085092, 6583065.784484090283513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 79,
+        "id_bui": 26,
+        "facadeP": 5.18,
+        "height_m": 0,
+        "Lden": 60.1,
+        "Lnight": 50.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675147.744856378179975, 6583118.936992455273867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 80,
+        "id_bui": 26,
+        "facadeP": 34.02,
+        "height_m": 0,
+        "Lden": 46.3,
+        "Lnight": 36.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675208.972019387292676, 6583108.200445777736604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 81,
+        "id_bui": 26,
+        "facadeP": 14.83,
+        "height_m": 0,
+        "Lden": 52.2,
+        "Lnight": 42.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675239.596603218000382, 6583055.052194450050592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 82,
+        "id_bui": 27,
+        "facadeP": 10.59,
+        "height_m": 0,
+        "Lden": 54.3,
+        "Lnight": 44.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675195.214974145172164, 6583166.461440047249198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 83,
+        "id_bui": 27,
+        "facadeP": 22.24,
+        "height_m": 0,
+        "Lden": 63.8,
+        "Lnight": 53.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675201.396200727904215, 6583195.002211071550846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 84,
+        "id_bui": 27,
+        "facadeP": 34.96,
+        "height_m": 0,
+        "Lden": 38.2,
+        "Lnight": 28.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675220.486136838677339, 6583180.602292956784368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 85,
+        "id_bui": 28,
+        "facadeP": 22.09,
+        "height_m": 0,
+        "Lden": 40.2,
+        "Lnight": 30.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675241.226492483634502, 6583198.585688990540802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 86,
+        "id_bui": 28,
+        "facadeP": 9.31,
+        "height_m": 0,
+        "Lden": 67.6,
+        "Lnight": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675224.571159744635224, 6583225.618408824317157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 87,
+        "id_bui": 28,
+        "facadeP": 36.01,
+        "height_m": 0,
+        "Lden": 72.0,
+        "Lnight": 62.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675254.796460753772408, 6583217.161627707071602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 88,
+        "id_bui": 29,
+        "facadeP": 17.65,
+        "height_m": 0,
+        "Lden": 38.3,
+        "Lnight": 28.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675295.970176205039024, 6583155.921457507647574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 89,
+        "id_bui": 29,
+        "facadeP": 38.91,
+        "height_m": 0,
+        "Lden": 72.5,
+        "Lnight": 62.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675311.730290602310561, 6583175.526673244312406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 90,
+        "id_bui": 29,
+        "facadeP": 11.89,
+        "height_m": 0,
+        "Lden": 67.4,
+        "Lnight": 57.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675335.405843879445456, 6583139.64374940469861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 91,
+        "id_bui": 30,
+        "facadeP": 9.81,
+        "height_m": 0,
+        "Lden": 43.5,
+        "Lnight": 33.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675281.20265314669814, 6583095.677875182591379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 92,
+        "id_bui": 30,
+        "facadeP": 21.69,
+        "height_m": 0,
+        "Lden": 34.9,
+        "Lnight": 24.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675290.282033912255429, 6583124.689418063499033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 93,
+        "id_bui": 30,
+        "facadeP": 34.99,
+        "height_m": 0,
+        "Lden": 60.5,
+        "Lnight": 50.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675308.879433450871147, 6583108.820775655098259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 94,
+        "id_bui": 31,
+        "facadeP": 17.31,
+        "height_m": 0,
+        "Lden": 45.3,
+        "Lnight": 35.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675238.326228538411669, 6583131.3160863770172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 95,
+        "id_bui": 32,
+        "facadeP": 26.45,
+        "height_m": 0,
+        "Lden": 37.3,
+        "Lnight": 27.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675254.98407169431448, 6583169.354612041264772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 96,
+        "id_bui": 32,
+        "facadeP": 28.96,
+        "height_m": 0,
+        "Lden": 37.3,
+        "Lnight": 27.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675272.937028550193645, 6583154.539501780644059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 97,
+        "id_bui": 33,
+        "facadeP": 21.0,
+        "height_m": 0,
+        "Lden": 56.4,
+        "Lnight": 46.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675287.881500720977783, 6583013.695382677949965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 98,
+        "id_bui": 33,
+        "facadeP": 6.1,
+        "height_m": 0,
+        "Lden": 49.0,
+        "Lnight": 39.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675267.045921343145892, 6583045.598842218518257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 99,
+        "id_bui": 33,
+        "facadeP": 39.57,
+        "height_m": 0,
+        "Lden": 28.0,
+        "Lnight": 18.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675300.944741373648867, 6583028.949229131452739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 100,
+        "id_bui": 33,
+        "facadeP": 10.1,
+        "height_m": 0,
+        "Lden": 53.4,
+        "Lnight": 43.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675321.774677306530066, 6582997.043945292010903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 101,
+        "id_bui": 34,
+        "facadeP": 19.73,
+        "height_m": 0,
+        "Lden": 56.4,
+        "Lnight": 46.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675371.970100844628178, 6582964.152541979216039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 102,
+        "id_bui": 34,
+        "facadeP": 4.25,
+        "height_m": 0,
+        "Lden": 47.7,
+        "Lnight": 37.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675347.685635556466877, 6583000.513468129560351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 103,
+        "id_bui": 34,
+        "facadeP": 40.87,
+        "height_m": 0,
+        "Lden": 49.4,
+        "Lnight": 39.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675384.933328505139798, 6582978.155397734604776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 104,
+        "id_bui": 34,
+        "facadeP": 9.38,
+        "height_m": 0,
+        "Lden": 62.4,
+        "Lnight": 52.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675409.219087928067893, 6582941.793896664865315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 105,
+        "id_bui": 35,
+        "facadeP": 11.88,
+        "height_m": 0,
+        "Lden": 31.0,
+        "Lnight": 21.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675330.174955449299887, 6583068.825654353946447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 106,
+        "id_bui": 35,
+        "facadeP": 24.02,
+        "height_m": 0,
+        "Lden": 61.2,
+        "Lnight": 51.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675336.875382960308343, 6583093.164973053149879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 107,
+        "id_bui": 36,
+        "facadeP": 21.45,
+        "height_m": 0,
+        "Lden": 40.0,
+        "Lnight": 30.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675372.225116918794811, 6583090.686038480140269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 108,
+        "id_bui": 36,
+        "facadeP": 9.39,
+        "height_m": 0,
+        "Lden": 67.6,
+        "Lnight": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675360.156085980474018, 6583118.75117261800915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 109,
+        "id_bui": 36,
+        "facadeP": 35.47,
+        "height_m": 0,
+        "Lden": 72.8,
+        "Lnight": 62.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675389.458962604869157, 6583107.840022426098585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 110,
+        "id_bui": 37,
+        "facadeP": 18.51,
+        "height_m": 0,
+        "Lden": 37.6,
+        "Lnight": 27.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675422.322164253448136, 6583043.572860322892666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 111,
+        "id_bui": 37,
+        "facadeP": 38.4,
+        "height_m": 0,
+        "Lden": 72.6,
+        "Lnight": 62.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675439.506743894540705, 6583060.414006044156849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 112,
+        "id_bui": 37,
+        "facadeP": 11.42,
+        "height_m": 0,
+        "Lden": 67.9,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675460.446001303615049, 6583024.071891581639647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 113,
+        "id_bui": 38,
+        "facadeP": 12.68,
+        "height_m": 0,
+        "Lden": 50.1,
+        "Lnight": 40.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675411.831060590222478, 6582991.163196959532797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 114,
+        "id_bui": 38,
+        "facadeP": 32.55,
+        "height_m": 0,
+        "Lden": 63.6,
+        "Lnight": 53.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675436.470925953588448, 6582999.168125758878887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 115,
+        "id_bui": 39,
+        "facadeP": 17.41,
+        "height_m": 0,
+        "Lden": 44.7,
+        "Lnight": 34.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675370.609673760598525, 6583030.4233538210392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 116,
+        "id_bui": 40,
+        "facadeP": 23.89,
+        "height_m": 0,
+        "Lden": 35.5,
+        "Lnight": 25.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675385.724065262475051, 6583063.949334663338959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 117,
+        "id_bui": 40,
+        "facadeP": 22.5,
+        "height_m": 0,
+        "Lden": 34.3,
+        "Lnight": 24.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675404.576936217490584, 6583046.003078286536038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 118,
+        "id_bui": 41,
+        "facadeP": 11.46,
+        "height_m": 0,
+        "Lden": 84.4,
+        "Lnight": 64.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675462.590166635112837, 6582876.672819416970015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 119,
+        "id_bui": 41,
+        "facadeP": 5.02,
+        "height_m": 0,
+        "Lden": 60.4,
+        "Lnight": 50.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675430.374675833038054, 6582929.350633597932756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 120,
+        "id_bui": 41,
+        "facadeP": 36.63,
+        "height_m": 0,
+        "Lden": 57.6,
+        "Lnight": 47.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675492.369679335155524, 6582907.084461471065879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 121,
+        "id_bui": 42,
+        "facadeP": 12.45,
+        "height_m": 0,
+        "Lden": 65.2,
+        "Lnight": 55.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675474.662294048233889, 6582974.066151946783066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 122,
+        "id_bui": 42,
+        "facadeP": 19.73,
+        "height_m": 0,
+        "Lden": 72.2,
+        "Lnight": 62.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675517.698203146457672, 6582983.428612928837538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 123,
+        "id_bui": 42,
+        "facadeP": 30.21,
+        "height_m": 0,
+        "Lden": 63.5,
+        "Lnight": 53.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675509.574630199349485, 6582940.909708045423031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 124,
+        "id_bui": 43,
+        "facadeP": 3.64,
+        "height_m": 0,
+        "Lden": 84.9,
+        "Lnight": 65.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675522.51603059656918, 6582836.504348350688815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 125,
+        "id_bui": 43,
+        "facadeP": 16.53,
+        "height_m": 0,
+        "Lden": 61.5,
+        "Lnight": 51.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675549.061856418498792, 6582879.821453909389675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 126,
+        "id_bui": 43,
+        "facadeP": 9.39,
+        "height_m": 0,
+        "Lden": 72.0,
+        "Lnight": 62.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675593.698182535707019, 6582908.820102219469845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 127,
+        "id_bui": 43,
+        "facadeP": 40.54,
+        "height_m": 0,
+        "Lden": 38.2,
+        "Lnight": 28.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675567.147026866092347, 6582865.505944836884737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 128,
+        "id_bui": 44,
+        "facadeP": 10.74,
+        "height_m": 0,
+        "Lden": 85.5,
+        "Lnight": 65.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675605.293595965951681, 6582780.722403040155768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 129,
+        "id_bui": 44,
+        "facadeP": 43.3,
+        "height_m": 0,
+        "Lden": 44.1,
+        "Lnight": 26.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675624.008754255599342, 6582799.796225826255977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 130,
+        "id_bui": 45,
+        "facadeP": 10.92,
+        "height_m": 0,
+        "Lden": 36.5,
+        "Lnight": 26.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675646.050203676568344, 6582822.08830907009542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 131,
+        "id_bui": 45,
+        "facadeP": 43.41,
+        "height_m": 0,
+        "Lden": 72.0,
+        "Lnight": 62.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675664.466180334915407, 6582840.836920372210443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 132,
+        "id_bui": 46,
+        "facadeP": 7.98,
+        "height_m": 0,
+        "Lden": 86.6,
+        "Lnight": 66.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675690.279418265563436, 6582723.266417209059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 133,
+        "id_bui": 46,
+        "facadeP": 19.28,
+        "height_m": 0,
+        "Lden": 41.3,
+        "Lnight": 26.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675702.597352274577133, 6582756.064263557083905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 134,
+        "id_bui": 46,
+        "facadeP": 14.93,
+        "height_m": 0,
+        "Lden": 71.8,
+        "Lnight": 61.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675736.221518988022581, 6582770.495870701037347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 135,
+        "id_bui": 46,
+        "facadeP": 34.01,
+        "height_m": 0,
+        "Lden": 80.4,
+        "Lnight": 61.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675723.892699521849863, 6582737.707008320838213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 136,
+        "id_bui": 47,
+        "facadeP": 37.57,
+        "height_m": 0,
+        "Lden": 82.1,
+        "Lnight": 62.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675761.825331179075874, 6582707.133402070961893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 137,
+        "id_bui": 47,
+        "facadeP": 22.5,
+        "height_m": 0,
+        "Lden": 65.4,
+        "Lnight": 55.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675757.741756982286461, 6582721.48853746149689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 138,
+        "id_bui": 47,
+        "facadeP": 31.85,
+        "height_m": 0,
+        "Lden": 64.7,
+        "Lnight": 54.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675772.345105779008009, 6582718.477553753182292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 139,
+        "id_bui": 47,
+        "facadeP": 19.37,
+        "height_m": 0,
+        "Lden": 80.0,
+        "Lnight": 60.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675776.426421903423034, 6582704.114756371825933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 140,
+        "id_bui": 48,
+        "facadeP": 19.12,
+        "height_m": 0,
+        "Lden": 75.1,
+        "Lnight": 65.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675066.677505970001221, 6583388.187718219123781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 141,
+        "id_bui": 48,
+        "facadeP": 4.09,
+        "height_m": 0,
+        "Lden": 67.7,
+        "Lnight": 57.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675030.199702559970319, 6583415.11009583901614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 142,
+        "id_bui": 48,
+        "facadeP": 39.34,
+        "height_m": 0,
+        "Lden": 43.2,
+        "Lnight": 33.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675078.939397018635646, 6583403.218159579671919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 143,
+        "id_bui": 48,
+        "facadeP": 8.14,
+        "height_m": 0,
+        "Lden": 69.1,
+        "Lnight": 59.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675115.444052312173881, 6583376.329975934699178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 144,
+        "id_bui": 49,
+        "facadeP": 19.01,
+        "height_m": 0,
+        "Lden": 63.6,
+        "Lnight": 53.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675076.940624001552351, 6583452.180668771266937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 145,
+        "id_bui": 49,
+        "facadeP": 7.87,
+        "height_m": 0,
+        "Lden": 74.1,
+        "Lnight": 64.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675121.636905981693417, 6583476.000212791375816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 146,
+        "id_bui": 49,
+        "facadeP": 39.42,
+        "height_m": 0,
+        "Lden": 43.0,
+        "Lnight": 33.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675092.822980753728189, 6583440.88829836063087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 147,
+        "id_bui": 50,
+        "facadeP": 26.78,
+        "height_m": 0,
+        "Lden": 54.7,
+        "Lnight": 44.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675129.953689865767956, 6583438.703999160788953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 148,
+        "id_bui": 50,
+        "facadeP": 35.24,
+        "height_m": 0,
+        "Lden": 73.6,
+        "Lnight": 63.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675144.269926109933294, 6583451.762753775343299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 149,
+        "id_bui": 50,
+        "facadeP": 13.93,
+        "height_m": 0,
+        "Lden": 68.6,
+        "Lnight": 58.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675154.237440857104957, 6583427.213865697383881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 150,
+        "id_bui": 51,
+        "facadeP": 22.9,
+        "height_m": 0,
+        "Lden": 45.8,
+        "Lnight": 35.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675187.092176916776225, 6583382.241921386681497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 151,
+        "id_bui": 51,
+        "facadeP": 6.12,
+        "height_m": 0,
+        "Lden": 68.5,
+        "Lnight": 58.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675168.717716546729207, 6583412.231562022119761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 152,
+        "id_bui": 51,
+        "facadeP": 38.23,
+        "height_m": 0,
+        "Lden": 73.9,
+        "Lnight": 63.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675199.983959482982755, 6583396.670327358879149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 153,
+        "id_bui": 51,
+        "facadeP": 11.64,
+        "height_m": 0,
+        "Lden": 69.4,
+        "Lnight": 59.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675218.368370823678561, 6583366.687746363691986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 154,
+        "id_bui": 52,
+        "facadeP": 33.51,
+        "height_m": 0,
+        "Lden": 44.6,
+        "Lnight": 34.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675188.802891022642143, 6583360.661188032478094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 155,
+        "id_bui": 52,
+        "facadeP": 26.87,
+        "height_m": 0,
+        "Lden": 67.8,
+        "Lnight": 57.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675204.472790323314257, 6583348.828893675468862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 156,
+        "id_bui": 53,
+        "facadeP": 22.1,
+        "height_m": 0,
+        "Lden": 74.7,
+        "Lnight": 64.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675156.883373374119401, 6583341.238526136614382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 157,
+        "id_bui": 53,
+        "facadeP": 6.17,
+        "height_m": 0,
+        "Lden": 69.0,
+        "Lnight": 59.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675132.93251793156378, 6583366.428083099424839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 158,
+        "id_bui": 53,
+        "facadeP": 40.54,
+        "height_m": 0,
+        "Lden": 45.4,
+        "Lnight": 35.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675166.921801214804873, 6583356.821216602809727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 159,
+        "id_bui": 53,
+        "facadeP": 10.91,
+        "height_m": 0,
+        "Lden": 69.9,
+        "Lnight": 59.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675190.860181374941021, 6583331.611157636158168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 160,
+        "id_bui": 54,
+        "facadeP": 12.22,
+        "height_m": 0,
+        "Lden": 74.3,
+        "Lnight": 64.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675227.696735642268322, 6583294.543349380604923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 161,
+        "id_bui": 54,
+        "facadeP": 28.88,
+        "height_m": 0,
+        "Lden": 68.5,
+        "Lnight": 58.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675233.218791020684876, 6583316.81793100386858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 162,
+        "id_bui": 54,
+        "facadeP": 34.88,
+        "height_m": 0,
+        "Lden": 42.4,
+        "Lnight": 32.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675247.936492689652368, 6583305.663747898302972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 163,
+        "id_bui": 55,
+        "facadeP": 22.81,
+        "height_m": 0,
+        "Lden": 74.6,
+        "Lnight": 64.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675259.86836917232722, 6583269.672507327981293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 164,
+        "id_bui": 55,
+        "facadeP": 38.65,
+        "height_m": 0,
+        "Lden": 47.2,
+        "Lnight": 37.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675272.406028874451295, 6583284.76969525590539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 165,
+        "id_bui": 55,
+        "facadeP": 11.85,
+        "height_m": 0,
+        "Lden": 69.1,
+        "Lnight": 59.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675291.615869460278191, 6583257.651262463070452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 166,
+        "id_bui": 56,
+        "facadeP": 19.97,
+        "height_m": 0,
+        "Lden": 45.5,
+        "Lnight": 35.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675278.596895167138427, 6583308.728944460861385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 167,
+        "id_bui": 56,
+        "facadeP": 4.65,
+        "height_m": 0,
+        "Lden": 69.4,
+        "Lnight": 59.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675251.638225942268036, 6583341.141442644409835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 168,
+        "id_bui": 56,
+        "facadeP": 40.59,
+        "height_m": 0,
+        "Lden": 73.9,
+        "Lnight": 63.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675290.491772707784548, 6583324.020558707416058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 169,
+        "id_bui": 56,
+        "facadeP": 9.5,
+        "height_m": 0,
+        "Lden": 68.8,
+        "Lnight": 58.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675317.449926423840225, 6583291.607045959681273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 170,
+        "id_bui": 57,
+        "facadeP": 19.01,
+        "height_m": 0,
+        "Lden": 74.5,
+        "Lnight": 64.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675336.862879837863147, 6583207.848001367412508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 171,
+        "id_bui": 57,
+        "facadeP": 3.85,
+        "height_m": 0,
+        "Lden": 69.3,
+        "Lnight": 59.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675307.837597362464294, 6583244.614238983020186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 172,
+        "id_bui": 57,
+        "facadeP": 41.0,
+        "height_m": 0,
+        "Lden": 45.2,
+        "Lnight": 35.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675348.044173766043968, 6583223.597819450311363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 173,
+        "id_bui": 57,
+        "facadeP": 9.13,
+        "height_m": 0,
+        "Lden": 69.6,
+        "Lnight": 59.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675377.07348939194344, 6583186.834300998598337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 174,
+        "id_bui": 58,
+        "facadeP": 21.84,
+        "height_m": 0,
+        "Lden": 46.7,
+        "Lnight": 36.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675355.48397792247124, 6583248.732050544582307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 175,
+        "id_bui": 58,
+        "facadeP": 6.2,
+        "height_m": 0,
+        "Lden": 68.6,
+        "Lnight": 58.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675333.3396705922205, 6583278.354610220529139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 176,
+        "id_bui": 58,
+        "facadeP": 38.84,
+        "height_m": 0,
+        "Lden": 73.8,
+        "Lnight": 63.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675366.857979499502108, 6583265.056699965149164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 177,
+        "id_bui": 59,
+        "facadeP": 26.53,
+        "height_m": 0,
+        "Lden": 44.3,
+        "Lnight": 34.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675381.695101902470924, 6583224.874518279917538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 178,
+        "id_bui": 59,
+        "facadeP": 16.6,
+        "height_m": 0,
+        "Lden": 73.9,
+        "Lnight": 63.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675403.198756601428613, 6583237.379883241839707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 179,
+        "id_bui": 59,
+        "facadeP": 35.59,
+        "height_m": 0,
+        "Lden": 68.0,
+        "Lnight": 58.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675397.345133784576319, 6583213.031135330908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 180,
+        "id_bui": 60,
+        "facadeP": 24.26,
+        "height_m": 0,
+        "Lden": 74.0,
+        "Lnight": 64.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675423.509546676534228, 6583132.415922731161118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 181,
+        "id_bui": 60,
+        "facadeP": 7.51,
+        "height_m": 0,
+        "Lden": 69.6,
+        "Lnight": 59.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675407.537065815646201, 6583159.343488790094852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 182,
+        "id_bui": 60,
+        "facadeP": 38.12,
+        "height_m": 0,
+        "Lden": 47.2,
+        "Lnight": 37.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675436.169450470828451, 6583146.457452199421823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 183,
+        "id_bui": 60,
+        "facadeP": 12.14,
+        "height_m": 0,
+        "Lden": 69.1,
+        "Lnight": 59.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675452.141938564367592, 6583119.52840768918395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 184,
+        "id_bui": 61,
+        "facadeP": 27.06,
+        "height_m": 0,
+        "Lden": 67.9,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675429.107184744789265, 6583184.998549938201904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 185,
+        "id_bui": 61,
+        "facadeP": 14.55,
+        "height_m": 0,
+        "Lden": 74.1,
+        "Lnight": 64.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675451.763306531589478, 6583197.070032483898103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 186,
+        "id_bui": 61,
+        "facadeP": 35.72,
+        "height_m": 0,
+        "Lden": 45.1,
+        "Lnight": 35.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675443.081278274068609, 6583172.171392097137868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 187,
+        "id_bui": 62,
+        "facadeP": 27.35,
+        "height_m": 0,
+        "Lden": 56.0,
+        "Lnight": 46.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675461.183746857801452, 6583160.497548282146454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 188,
+        "id_bui": 62,
+        "facadeP": 34.64,
+        "height_m": 0,
+        "Lden": 73.8,
+        "Lnight": 63.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675474.310687929508276, 6583175.156629727222025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 189,
+        "id_bui": 62,
+        "facadeP": 15.24,
+        "height_m": 0,
+        "Lden": 68.7,
+        "Lnight": 58.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675483.348028789041564, 6583152.802064786665142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 190,
+        "id_bui": 63,
+        "facadeP": 23.68,
+        "height_m": 0,
+        "Lden": 74.7,
+        "Lnight": 64.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675482.479083769954741, 6583075.90305408462882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 191,
+        "id_bui": 63,
+        "facadeP": 7.57,
+        "height_m": 0,
+        "Lden": 69.7,
+        "Lnight": 59.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675466.936013531521894, 6583104.391699088737369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 192,
+        "id_bui": 63,
+        "facadeP": 38.35,
+        "height_m": 0,
+        "Lden": 47.3,
+        "Lnight": 37.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675494.906752230483107, 6583090.634093582630157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 193,
+        "id_bui": 63,
+        "facadeP": 11.95,
+        "height_m": 0,
+        "Lden": 69.9,
+        "Lnight": 59.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675510.44605907483492, 6583062.141170101240277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 194,
+        "id_bui": 64,
+        "facadeP": 27.3,
+        "height_m": 0,
+        "Lden": 54.4,
+        "Lnight": 44.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675506.726022888207808, 6583116.817202733829618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 195,
+        "id_bui": 64,
+        "facadeP": 12.55,
+        "height_m": 0,
+        "Lden": 69.2,
+        "Lnight": 59.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675497.900112125324085, 6583139.004101323895156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 196,
+        "id_bui": 64,
+        "facadeP": 34.46,
+        "height_m": 0,
+        "Lden": 74.2,
+        "Lnight": 64.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675520.34666188119445, 6583131.225520743057132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 197,
+        "id_bui": 65,
+        "facadeP": 26.68,
+        "height_m": 0,
+        "Lden": 45.4,
+        "Lnight": 35.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675519.541217315359972, 6583099.268402554094791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 198,
+        "id_bui": 65,
+        "facadeP": 14.57,
+        "height_m": 0,
+        "Lden": 74.6,
+        "Lnight": 64.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675543.129125108476728, 6583109.806753722950816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 199,
+        "id_bui": 65,
+        "facadeP": 36.04,
+        "height_m": 0,
+        "Lden": 68.3,
+        "Lnight": 58.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675533.562598638469353, 6583086.235211436636746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 200,
+        "id_bui": 66,
+        "facadeP": 20.26,
+        "height_m": 0,
+        "Lden": 74.8,
+        "Lnight": 64.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675566.714573520817794, 6582993.886829708702862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 201,
+        "id_bui": 66,
+        "facadeP": 4.64,
+        "height_m": 0,
+        "Lden": 70.2,
+        "Lnight": 60.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675543.671219265903346, 6583029.281393239274621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 202,
+        "id_bui": 66,
+        "facadeP": 40.35,
+        "height_m": 0,
+        "Lden": 44.5,
+        "Lnight": 34.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675580.550717480131425, 6583006.770733984187245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 203,
+        "id_bui": 66,
+        "facadeP": 8.94,
+        "height_m": 0,
+        "Lden": 70.4,
+        "Lnight": 60.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675603.600357448332943, 6582971.38356851413846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 204,
+        "id_bui": 67,
+        "facadeP": 32.81,
+        "height_m": 0,
+        "Lden": 68.3,
+        "Lnight": 58.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675560.720819128677249, 6583045.353806897997856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 205,
+        "id_bui": 67,
+        "facadeP": 29.42,
+        "height_m": 0,
+        "Lden": 44.4,
+        "Lnight": 34.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675573.916287285857834, 6583032.001622215844691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 206,
+        "id_bui": 68,
+        "facadeP": 23.63,
+        "height_m": 0,
+        "Lden": 44.5,
+        "Lnight": 34.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675592.368310419959016, 6583032.070532593876123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 207,
+        "id_bui": 68,
+        "facadeP": 6.86,
+        "height_m": 0,
+        "Lden": 70.3,
+        "Lnight": 60.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675577.064312741858885, 6583061.638904198072851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 208,
+        "id_bui": 68,
+        "facadeP": 38.65,
+        "height_m": 0,
+        "Lden": 74.5,
+        "Lnight": 64.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675605.768081455375068, 6583045.162249410524964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 209,
+        "id_bui": 69,
+        "facadeP": 27.63,
+        "height_m": 0,
+        "Lden": 44.4,
+        "Lnight": 34.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675611.881108947796747, 6583006.805265045724809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 210,
+        "id_bui": 69,
+        "facadeP": 15.22,
+        "height_m": 0,
+        "Lden": 74.5,
+        "Lnight": 64.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675634.541981688002124, 6583015.532586733810604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 211,
+        "id_bui": 69,
+        "facadeP": 34.83,
+        "height_m": 0,
+        "Lden": 68.7,
+        "Lnight": 58.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675625.668477759696543, 6582993.279335347935557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 212,
+        "id_bui": 70,
+        "facadeP": 13.92,
+        "height_m": 0,
+        "Lden": 75.1,
+        "Lnight": 65.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675664.996778236120008, 6582898.146164403297007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 213,
+        "id_bui": 70,
+        "facadeP": 3.04,
+        "height_m": 0,
+        "Lden": 69.6,
+        "Lnight": 59.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675630.227951594162732, 6582950.597706399857998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 214,
+        "id_bui": 70,
+        "facadeP": 41.23,
+        "height_m": 0,
+        "Lden": 67.6,
+        "Lnight": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675683.001600027200766, 6582917.009218312799931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 215,
+        "id_bui": 70,
+        "facadeP": 8.41,
+        "height_m": 0,
+        "Lden": 70.4,
+        "Lnight": 60.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675717.770292889443226, 6582864.559678940102458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 216,
+        "id_bui": 71,
+        "facadeP": 23.36,
+        "height_m": 0,
+        "Lden": 68.1,
+        "Lnight": 58.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675720.343105360749178, 6582904.963188957422972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 217,
+        "id_bui": 71,
+        "facadeP": 21.12,
+        "height_m": 0,
+        "Lden": 75.3,
+        "Lnight": 65.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675742.372572955093347, 6582908.343840493820608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 218,
+        "id_bui": 71,
+        "facadeP": 28.81,
+        "height_m": 0,
+        "Lden": 69.5,
+        "Lnight": 59.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675738.9490027197171, 6582886.273193053901196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 219,
+        "id_bui": 0,
+        "facadeP": 15.32,
+        "height_m": 15,
+        "Lden": 86.8,
+        "Lnight": 66.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674508.848417114466429, 6583455.819448973983526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 220,
+        "id_bui": 0,
+        "facadeP": 1.54,
+        "height_m": 15,
+        "Lden": 84.0,
+        "Lnight": 64.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674469.901981025934219, 6583496.102360244840384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 221,
+        "id_bui": 0,
+        "facadeP": 35.84,
+        "height_m": 15,
+        "Lden": 68.7,
+        "Lnight": 58.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674517.999387996271253, 6583485.519534323364496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 222,
+        "id_bui": 0,
+        "facadeP": 19.14,
+        "height_m": 15,
+        "Lden": 65.4,
+        "Lnight": 52.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674556.98803399852477, 6583445.242221273481846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 223,
+        "id_bui": 1,
+        "facadeP": 16.08,
+        "height_m": 5,
+        "Lden": 86.4,
+        "Lnight": 66.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674605.600080977310427, 6583381.54719706159085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 224,
+        "id_bui": 1,
+        "facadeP": 2.7,
+        "height_m": 5,
+        "Lden": 85.1,
+        "Lnight": 65.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674569.499133039964363, 6583414.768083435483277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 225,
+        "id_bui": 1,
+        "facadeP": 36.07,
+        "height_m": 5,
+        "Lden": 59.0,
+        "Lnight": 39.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674614.053702512057498, 6583410.930027783848345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 226,
+        "id_bui": 1,
+        "facadeP": 18.8,
+        "height_m": 5,
+        "Lden": 66.1,
+        "Lnight": 47.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674650.186371127841994, 6583377.703319394960999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 227,
+        "id_bui": 2,
+        "facadeP": 26.17,
+        "height_m": 15,
+        "Lden": 42.0,
+        "Lnight": 32.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674604.428842178662308, 6583428.809275070205331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 228,
+        "id_bui": 2,
+        "facadeP": 26.43,
+        "height_m": 15,
+        "Lden": 63.4,
+        "Lnight": 53.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674596.041461742017418, 6583443.543416859582067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 229,
+        "id_bui": 2,
+        "facadeP": 25.76,
+        "height_m": 15,
+        "Lden": 38.4,
+        "Lnight": 28.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674618.742354250396602, 6583437.533809048123658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 230,
+        "id_bui": 3,
+        "facadeP": 13.59,
+        "height_m": 21,
+        "Lden": 40.3,
+        "Lnight": 30.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674661.916277514654212, 6583439.270086652599275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 231,
+        "id_bui": 3,
+        "facadeP": 2.64,
+        "height_m": 21,
+        "Lden": 66.3,
+        "Lnight": 56.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674602.271905861562118, 6583467.149845186620951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 232,
+        "id_bui": 3,
+        "facadeP": 42.0,
+        "height_m": 21,
+        "Lden": 71.1,
+        "Lnight": 61.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674668.482257204828784, 6583463.348949118517339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 233,
+        "id_bui": 3,
+        "facadeP": 7.88,
+        "height_m": 21,
+        "Lden": 66.5,
+        "Lnight": 56.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674728.125822475063615, 6583435.468826902098954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 234,
+        "id_bui": 4,
+        "facadeP": 18.4,
+        "height_m": 21,
+        "Lden": 84.8,
+        "Lnight": 64.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674703.589128004387021, 6583323.263080272823572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 235,
+        "id_bui": 4,
+        "facadeP": 4.37,
+        "height_m": 21,
+        "Lden": 82.5,
+        "Lnight": 62.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674672.486456747166812, 6583349.723378334194422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 236,
+        "id_bui": 4,
+        "facadeP": 36.29,
+        "height_m": 21,
+        "Lden": 29.7,
+        "Lnight": 19.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674710.318324697203934, 6583349.40706736035645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 237,
+        "id_bui": 4,
+        "facadeP": 17.67,
+        "height_m": 21,
+        "Lden": 52.9,
+        "Lnight": 41.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674741.44299686269369, 6583322.936982405371964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 238,
+        "id_bui": 5,
+        "facadeP": 9.8,
+        "height_m": 15,
+        "Lden": 82.4,
+        "Lnight": 62.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674817.39815436291974, 6583264.825787590816617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 239,
+        "id_bui": 5,
+        "facadeP": 3.74,
+        "height_m": 15,
+        "Lden": 51.6,
+        "Lnight": 41.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674772.974532169057056, 6583311.2462322358042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 240,
+        "id_bui": 5,
+        "facadeP": 34.62,
+        "height_m": 15,
+        "Lden": 46.7,
+        "Lnight": 36.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674835.31067072332371, 6583316.434759655967355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 241,
+        "id_bui": 5,
+        "facadeP": 19.52,
+        "height_m": 15,
+        "Lden": 59.6,
+        "Lnight": 49.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674879.749917397042736, 6583269.996660900302231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 242,
+        "id_bui": 6,
+        "facadeP": 11.99,
+        "height_m": 15,
+        "Lden": 44.9,
+        "Lnight": 34.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674755.558245874592103, 6583365.622023493051529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 243,
+        "id_bui": 6,
+        "facadeP": 23.68,
+        "height_m": 15,
+        "Lden": 60.2,
+        "Lnight": 50.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674749.535854147514328, 6583391.787591801956296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 244,
+        "id_bui": 6,
+        "facadeP": 33.34,
+        "height_m": 15,
+        "Lden": 39.6,
+        "Lnight": 29.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674772.529077588929795, 6583386.244137918576598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 245,
+        "id_bui": 7,
+        "facadeP": 19.02,
+        "height_m": 21,
+        "Lden": 43.3,
+        "Lnight": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674790.125080769998021, 6583406.157320162281394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 246,
+        "id_bui": 7,
+        "facadeP": 6.73,
+        "height_m": 21,
+        "Lden": 66.7,
+        "Lnight": 56.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674758.666946981335059, 6583427.343174241483212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 247,
+        "id_bui": 7,
+        "facadeP": 36.78,
+        "height_m": 21,
+        "Lden": 71.3,
+        "Lnight": 61.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674796.556614532833919, 6583431.082918242551386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 248,
+        "id_bui": 8,
+        "facadeP": 17.89,
+        "height_m": 39,
+        "Lden": 41.2,
+        "Lnight": 31.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674861.822588188457303, 6583387.76340373698622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 249,
+        "id_bui": 8,
+        "facadeP": 38.2,
+        "height_m": 39,
+        "Lden": 69.2,
+        "Lnight": 59.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674869.362165211932734, 6583412.439429424703121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 250,
+        "id_bui": 8,
+        "facadeP": 12.29,
+        "height_m": 39,
+        "Lden": 65.2,
+        "Lnight": 55.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674903.359498044941574, 6583390.247111105360091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 251,
+        "id_bui": 9,
+        "facadeP": 16.38,
+        "height_m": 15,
+        "Lden": 41.4,
+        "Lnight": 31.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674811.742642249213532, 6583351.571545467711985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 252,
+        "id_bui": 9,
+        "facadeP": 40.78,
+        "height_m": 15,
+        "Lden": 35.3,
+        "Lnight": 25.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674819.2088353355648, 6583374.713496967218816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 253,
+        "id_bui": 10,
+        "facadeP": 11.67,
+        "height_m": 15,
+        "Lden": 49.2,
+        "Lnight": 39.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674867.994554320117459, 6583337.092069105245173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 254,
+        "id_bui": 10,
+        "facadeP": 33.09,
+        "height_m": 15,
+        "Lden": 62.1,
+        "Lnight": 52.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674889.565394760924391, 6583356.14238868188113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 255,
+        "id_bui": 11,
+        "facadeP": 6.37,
+        "height_m": 15,
+        "Lden": 80.4,
+        "Lnight": 60.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674899.625754904467613, 6583222.472290519624949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 256,
+        "id_bui": 11,
+        "facadeP": 20.07,
+        "height_m": 15,
+        "Lden": 58.0,
+        "Lnight": 48.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674901.928429598454386, 6583260.573686119168997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 257,
+        "id_bui": 11,
+        "facadeP": 11.71,
+        "height_m": 15,
+        "Lden": 52.7,
+        "Lnight": 42.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674924.843377583660185, 6583289.835541605018079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 258,
+        "id_bui": 11,
+        "facadeP": 38.61,
+        "height_m": 15,
+        "Lden": 49.8,
+        "Lnight": 39.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674922.547743722097948, 6583251.731731970794499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 259,
+        "id_bui": 12,
+        "facadeP": 27.02,
+        "height_m": 15,
+        "Lden": 48.7,
+        "Lnight": 38.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674945.581198108149692, 6583258.724660671316087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 260,
+        "id_bui": 12,
+        "facadeP": 32.75,
+        "height_m": 15,
+        "Lden": 47.0,
+        "Lnight": 37.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674953.19374795537442, 6583278.388420227915049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 261,
+        "id_bui": 12,
+        "facadeP": 17.75,
+        "height_m": 15,
+        "Lden": 43.9,
+        "Lnight": 33.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674967.368804646772332, 6583260.928957872092724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 262,
+        "id_bui": 13,
+        "facadeP": 15.47,
+        "height_m": 15,
+        "Lden": 76.9,
+        "Lnight": 57.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674990.117306162370369, 6583176.809795135632157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 263,
+        "id_bui": 13,
+        "facadeP": 10.35,
+        "height_m": 15,
+        "Lden": 52.5,
+        "Lnight": 42.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674973.524417595122941, 6583207.281733696348965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 264,
+        "id_bui": 13,
+        "facadeP": 29.39,
+        "height_m": 15,
+        "Lden": 29.5,
+        "Lnight": 19.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675007.522072318708524, 6583212.19443556945771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 265,
+        "id_bui": 13,
+        "facadeP": 21.17,
+        "height_m": 15,
+        "Lden": 50.9,
+        "Lnight": 40.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675024.119539643987082, 6583181.721372555941343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 266,
+        "id_bui": 14,
+        "facadeP": 12.44,
+        "height_m": 15,
+        "Lden": 52.1,
+        "Lnight": 42.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674936.763060460332781, 6583316.911674092523754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 267,
+        "id_bui": 14,
+        "facadeP": 23.97,
+        "height_m": 15,
+        "Lden": 63.1,
+        "Lnight": 53.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674933.847219449118711, 6583342.57378001511097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 268,
+        "id_bui": 15,
+        "facadeP": 12.71,
+        "height_m": 21,
+        "Lden": 66.4,
+        "Lnight": 56.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674946.250512584345415, 6583375.24913817923516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 269,
+        "id_bui": 15,
+        "facadeP": 33.25,
+        "height_m": 21,
+        "Lden": 70.7,
+        "Lnight": 60.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674971.804033582215197, 6583379.18194386921823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 270,
+        "id_bui": 16,
+        "facadeP": 23.22,
+        "height_m": 18,
+        "Lden": 41.3,
+        "Lnight": 31.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675009.350368934101425, 6583343.357744864188135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 271,
+        "id_bui": 16,
+        "facadeP": 34.38,
+        "height_m": 18,
+        "Lden": 71.4,
+        "Lnight": 61.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675018.499329521902837, 6583364.771105630323291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 272,
+        "id_bui": 16,
+        "facadeP": 15.24,
+        "height_m": 18,
+        "Lden": 67.2,
+        "Lnight": 57.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675038.072727918741293, 6583344.239379639737308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 273,
+        "id_bui": 17,
+        "facadeP": 10.49,
+        "height_m": 15,
+        "Lden": 32.6,
+        "Lnight": 22.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675002.181798710487783, 6583291.793060433119535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 274,
+        "id_bui": 17,
+        "facadeP": 22.97,
+        "height_m": 15,
+        "Lden": 41.1,
+        "Lnight": 31.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675001.011581924394704, 6583319.405551674775779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 275,
+        "id_bui": 17,
+        "facadeP": 33.73,
+        "height_m": 15,
+        "Lden": 61.7,
+        "Lnight": 51.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675023.475421390379779, 6583310.750504779629409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 276,
+        "id_bui": 18,
+        "facadeP": 22.81,
+        "height_m": 15,
+        "Lden": 46.1,
+        "Lnight": 36.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674969.676524116075598, 6583304.353473498485982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 277,
+        "id_bui": 18,
+        "facadeP": 33.59,
+        "height_m": 15,
+        "Lden": 36.7,
+        "Lnight": 26.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674978.364242627518252, 6583327.096556697972119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 278,
+        "id_bui": 19,
+        "facadeP": 10.32,
+        "height_m": 21,
+        "Lden": 57.7,
+        "Lnight": 47.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675075.318603154271841, 6583130.634148756042123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 279,
+        "id_bui": 19,
+        "facadeP": 7.87,
+        "height_m": 21,
+        "Lden": 47.6,
+        "Lnight": 37.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675057.050522150471807, 6583177.833541322499514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 280,
+        "id_bui": 19,
+        "facadeP": 28.98,
+        "height_m": 21,
+        "Lden": 49.6,
+        "Lnight": 39.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675109.531307477736846, 6583179.427675847895443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 281,
+        "id_bui": 19,
+        "facadeP": 18.8,
+        "height_m": 21,
+        "Lden": 58.0,
+        "Lnight": 48.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675127.790011425735429, 6583132.237263927236199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 282,
+        "id_bui": 20,
+        "facadeP": 10.43,
+        "height_m": 15,
+        "Lden": 46.2,
+        "Lnight": 36.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675049.882498319377191, 6583262.918494550511241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 283,
+        "id_bui": 20,
+        "facadeP": 21.88,
+        "height_m": 15,
+        "Lden": 61.3,
+        "Lnight": 51.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675050.888101310702041, 6583293.479149493388832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 284,
+        "id_bui": 20,
+        "facadeP": 34.56,
+        "height_m": 15,
+        "Lden": 39.1,
+        "Lnight": 29.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675071.931688307086006, 6583280.694829122163355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 285,
+        "id_bui": 21,
+        "facadeP": 20.14,
+        "height_m": 21,
+        "Lden": 43.2,
+        "Lnight": 33.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675087.811173862195574, 6583302.248967608436942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 286,
+        "id_bui": 21,
+        "facadeP": 8.66,
+        "height_m": 21,
+        "Lden": 66.9,
+        "Lnight": 56.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675068.249601009301841, 6583328.424065568484366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 287,
+        "id_bui": 21,
+        "facadeP": 35.06,
+        "height_m": 21,
+        "Lden": 71.1,
+        "Lnight": 61.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675100.227621842524968, 6583325.411790705285966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 288,
+        "id_bui": 22,
+        "facadeP": 17.23,
+        "height_m": 39,
+        "Lden": 41.0,
+        "Lnight": 31.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675148.006699631805532, 6583266.027166031301022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 289,
+        "id_bui": 22,
+        "facadeP": 38.44,
+        "height_m": 39,
+        "Lden": 69.0,
+        "Lnight": 59.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675161.774687704513781, 6583288.469404322095215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 290,
+        "id_bui": 22,
+        "facadeP": 11.54,
+        "height_m": 39,
+        "Lden": 65.3,
+        "Lnight": 55.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675190.160028870450333, 6583255.162677261047065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 291,
+        "id_bui": 23,
+        "facadeP": 9.79,
+        "height_m": 15,
+        "Lden": 50.6,
+        "Lnight": 40.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675140.242078013718128, 6583206.791462825611234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 292,
+        "id_bui": 23,
+        "facadeP": 22.31,
+        "height_m": 15,
+        "Lden": 36.0,
+        "Lnight": 26.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675146.488617512397468, 6583234.984341136179864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 293,
+        "id_bui": 23,
+        "facadeP": 34.76,
+        "height_m": 15,
+        "Lden": 62.6,
+        "Lnight": 52.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675166.988430339260958, 6583222.671662300825119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 294,
+        "id_bui": 24,
+        "facadeP": 17.41,
+        "height_m": 15,
+        "Lden": 43.2,
+        "Lnight": 33.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675095.203839701018296, 6583234.570369887165725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 295,
+        "id_bui": 25,
+        "facadeP": 26.12,
+        "height_m": 15,
+        "Lden": 37.0,
+        "Lnight": 27.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675104.788794085383415, 6583274.719552158378065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 296,
+        "id_bui": 25,
+        "facadeP": 28.4,
+        "height_m": 15,
+        "Lden": 36.0,
+        "Lnight": 26.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675124.893220943165943, 6583262.308425625786185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 297,
+        "id_bui": 26,
+        "facadeP": 10.43,
+        "height_m": 21,
+        "Lden": 79.8,
+        "Lnight": 60.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675178.374120764085092, 6583065.784484090283513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 298,
+        "id_bui": 26,
+        "facadeP": 5.18,
+        "height_m": 21,
+        "Lden": 57.4,
+        "Lnight": 47.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675147.744856378179975, 6583118.936992455273867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 299,
+        "id_bui": 26,
+        "facadeP": 34.02,
+        "height_m": 21,
+        "Lden": 45.9,
+        "Lnight": 35.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675208.972019387292676, 6583108.200445777736604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 300,
+        "id_bui": 26,
+        "facadeP": 14.83,
+        "height_m": 21,
+        "Lden": 51.3,
+        "Lnight": 41.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675239.596603218000382, 6583055.052194450050592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 301,
+        "id_bui": 27,
+        "facadeP": 10.59,
+        "height_m": 15,
+        "Lden": 53.4,
+        "Lnight": 43.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675195.214974145172164, 6583166.461440047249198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 302,
+        "id_bui": 27,
+        "facadeP": 22.24,
+        "height_m": 15,
+        "Lden": 63.0,
+        "Lnight": 53.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675201.396200727904215, 6583195.002211071550846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 303,
+        "id_bui": 27,
+        "facadeP": 34.96,
+        "height_m": 15,
+        "Lden": 40.0,
+        "Lnight": 30.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675220.486136838677339, 6583180.602292956784368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 304,
+        "id_bui": 28,
+        "facadeP": 22.09,
+        "height_m": 21,
+        "Lden": 44.1,
+        "Lnight": 34.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675241.226492483634502, 6583198.585688990540802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 305,
+        "id_bui": 28,
+        "facadeP": 9.31,
+        "height_m": 21,
+        "Lden": 66.5,
+        "Lnight": 56.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675224.571159744635224, 6583225.618408824317157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 306,
+        "id_bui": 28,
+        "facadeP": 36.01,
+        "height_m": 21,
+        "Lden": 70.7,
+        "Lnight": 60.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675254.796460753772408, 6583217.161627707071602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 307,
+        "id_bui": 29,
+        "facadeP": 17.65,
+        "height_m": 18,
+        "Lden": 41.8,
+        "Lnight": 31.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675295.970176205039024, 6583155.921457507647574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 308,
+        "id_bui": 29,
+        "facadeP": 38.91,
+        "height_m": 18,
+        "Lden": 71.4,
+        "Lnight": 61.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675311.730290602310561, 6583175.526673244312406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 309,
+        "id_bui": 29,
+        "facadeP": 11.89,
+        "height_m": 18,
+        "Lden": 66.6,
+        "Lnight": 56.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675335.405843879445456, 6583139.64374940469861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 310,
+        "id_bui": 30,
+        "facadeP": 9.81,
+        "height_m": 15,
+        "Lden": 43.3,
+        "Lnight": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675281.20265314669814, 6583095.677875182591379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 311,
+        "id_bui": 30,
+        "facadeP": 21.69,
+        "height_m": 15,
+        "Lden": 36.7,
+        "Lnight": 26.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675290.282033912255429, 6583124.689418063499033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 312,
+        "id_bui": 30,
+        "facadeP": 34.99,
+        "height_m": 15,
+        "Lden": 60.1,
+        "Lnight": 50.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675308.879433450871147, 6583108.820775655098259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 313,
+        "id_bui": 31,
+        "facadeP": 17.31,
+        "height_m": 15,
+        "Lden": 45.1,
+        "Lnight": 35.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675238.326228538411669, 6583131.3160863770172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 314,
+        "id_bui": 32,
+        "facadeP": 26.45,
+        "height_m": 15,
+        "Lden": 39.0,
+        "Lnight": 29.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675254.98407169431448, 6583169.354612041264772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 315,
+        "id_bui": 32,
+        "facadeP": 28.96,
+        "height_m": 15,
+        "Lden": 39.0,
+        "Lnight": 29.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675272.937028550193645, 6583154.539501780644059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 316,
+        "id_bui": 33,
+        "facadeP": 21.0,
+        "height_m": 15,
+        "Lden": 55.8,
+        "Lnight": 45.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675287.881500720977783, 6583013.695382677949965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 317,
+        "id_bui": 33,
+        "facadeP": 6.1,
+        "height_m": 15,
+        "Lden": 48.4,
+        "Lnight": 38.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675267.045921343145892, 6583045.598842218518257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 318,
+        "id_bui": 33,
+        "facadeP": 39.57,
+        "height_m": 15,
+        "Lden": 31.7,
+        "Lnight": 21.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675300.944741373648867, 6583028.949229131452739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 319,
+        "id_bui": 33,
+        "facadeP": 10.1,
+        "height_m": 15,
+        "Lden": 52.8,
+        "Lnight": 42.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675321.774677306530066, 6582997.043945292010903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 320,
+        "id_bui": 34,
+        "facadeP": 19.73,
+        "height_m": 15,
+        "Lden": 55.8,
+        "Lnight": 45.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675371.970100844628178, 6582964.152541979216039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 321,
+        "id_bui": 34,
+        "facadeP": 4.25,
+        "height_m": 15,
+        "Lden": 47.2,
+        "Lnight": 37.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675347.685635556466877, 6583000.513468129560351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 322,
+        "id_bui": 34,
+        "facadeP": 40.87,
+        "height_m": 15,
+        "Lden": 49.1,
+        "Lnight": 39.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675384.933328505139798, 6582978.155397734604776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 323,
+        "id_bui": 34,
+        "facadeP": 9.38,
+        "height_m": 15,
+        "Lden": 59.3,
+        "Lnight": 49.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675409.219087928067893, 6582941.793896664865315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 324,
+        "id_bui": 35,
+        "facadeP": 11.88,
+        "height_m": 15,
+        "Lden": 33.6,
+        "Lnight": 23.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675330.174955449299887, 6583068.825654353946447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 325,
+        "id_bui": 35,
+        "facadeP": 24.02,
+        "height_m": 15,
+        "Lden": 60.8,
+        "Lnight": 50.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675336.875382960308343, 6583093.164973053149879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 326,
+        "id_bui": 36,
+        "facadeP": 21.45,
+        "height_m": 21,
+        "Lden": 43.5,
+        "Lnight": 33.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675372.225116918794811, 6583090.686038480140269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 327,
+        "id_bui": 36,
+        "facadeP": 9.39,
+        "height_m": 21,
+        "Lden": 66.4,
+        "Lnight": 56.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675360.156085980474018, 6583118.75117261800915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 328,
+        "id_bui": 36,
+        "facadeP": 35.47,
+        "height_m": 21,
+        "Lden": 71.2,
+        "Lnight": 61.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675389.458962604869157, 6583107.840022426098585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 329,
+        "id_bui": 37,
+        "facadeP": 18.51,
+        "height_m": 39,
+        "Lden": 41.3,
+        "Lnight": 31.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675422.322164253448136, 6583043.572860322892666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 330,
+        "id_bui": 37,
+        "facadeP": 38.4,
+        "height_m": 39,
+        "Lden": 69.0,
+        "Lnight": 59.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675439.506743894540705, 6583060.414006044156849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 331,
+        "id_bui": 37,
+        "facadeP": 11.42,
+        "height_m": 39,
+        "Lden": 65.4,
+        "Lnight": 55.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675460.446001303615049, 6583024.071891581639647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 332,
+        "id_bui": 38,
+        "facadeP": 12.68,
+        "height_m": 15,
+        "Lden": 49.5,
+        "Lnight": 39.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675411.831060590222478, 6582991.163196959532797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 333,
+        "id_bui": 38,
+        "facadeP": 32.55,
+        "height_m": 15,
+        "Lden": 63.3,
+        "Lnight": 53.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675436.470925953588448, 6582999.168125758878887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 334,
+        "id_bui": 39,
+        "facadeP": 17.41,
+        "height_m": 15,
+        "Lden": 44.5,
+        "Lnight": 34.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675370.609673760598525, 6583030.4233538210392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 335,
+        "id_bui": 40,
+        "facadeP": 23.89,
+        "height_m": 15,
+        "Lden": 36.8,
+        "Lnight": 26.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675385.724065262475051, 6583063.949334663338959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 336,
+        "id_bui": 40,
+        "facadeP": 22.5,
+        "height_m": 15,
+        "Lden": 35.5,
+        "Lnight": 25.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675404.576936217490584, 6583046.003078286536038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 337,
+        "id_bui": 41,
+        "facadeP": 11.46,
+        "height_m": 15,
+        "Lden": 84.3,
+        "Lnight": 64.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675462.590166635112837, 6582876.672819416970015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 338,
+        "id_bui": 41,
+        "facadeP": 5.02,
+        "height_m": 15,
+        "Lden": 58.7,
+        "Lnight": 48.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675430.374675833038054, 6582929.350633597932756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 339,
+        "id_bui": 41,
+        "facadeP": 36.63,
+        "height_m": 15,
+        "Lden": 57.5,
+        "Lnight": 47.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675492.369679335155524, 6582907.084461471065879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 340,
+        "id_bui": 42,
+        "facadeP": 12.45,
+        "height_m": 15,
+        "Lden": 64.7,
+        "Lnight": 54.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675474.662294048233889, 6582974.066151946783066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 341,
+        "id_bui": 42,
+        "facadeP": 19.73,
+        "height_m": 15,
+        "Lden": 71.5,
+        "Lnight": 61.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675517.698203146457672, 6582983.428612928837538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 342,
+        "id_bui": 42,
+        "facadeP": 30.21,
+        "height_m": 15,
+        "Lden": 63.2,
+        "Lnight": 53.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675509.574630199349485, 6582940.909708045423031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 343,
+        "id_bui": 43,
+        "facadeP": 3.64,
+        "height_m": 15,
+        "Lden": 84.7,
+        "Lnight": 64.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675522.51603059656918, 6582836.504348350688815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 344,
+        "id_bui": 43,
+        "facadeP": 16.53,
+        "height_m": 15,
+        "Lden": 61.4,
+        "Lnight": 51.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675549.061856418498792, 6582879.821453909389675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 345,
+        "id_bui": 43,
+        "facadeP": 9.39,
+        "height_m": 15,
+        "Lden": 71.2,
+        "Lnight": 61.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675593.698182535707019, 6582908.820102219469845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 346,
+        "id_bui": 43,
+        "facadeP": 40.54,
+        "height_m": 15,
+        "Lden": 40.5,
+        "Lnight": 30.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675567.147026866092347, 6582865.505944836884737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 347,
+        "id_bui": 44,
+        "facadeP": 10.74,
+        "height_m": 21,
+        "Lden": 85.1,
+        "Lnight": 65.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675605.293595965951681, 6582780.722403040155768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 348,
+        "id_bui": 44,
+        "facadeP": 43.3,
+        "height_m": 21,
+        "Lden": 49.6,
+        "Lnight": 30.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675624.008754255599342, 6582799.796225826255977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 349,
+        "id_bui": 45,
+        "facadeP": 10.92,
+        "height_m": 21,
+        "Lden": 39.8,
+        "Lnight": 29.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675646.050203676568344, 6582822.08830907009542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 350,
+        "id_bui": 45,
+        "facadeP": 43.41,
+        "height_m": 21,
+        "Lden": 70.7,
+        "Lnight": 60.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675664.466180334915407, 6582840.836920372210443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 351,
+        "id_bui": 46,
+        "facadeP": 7.98,
+        "height_m": 54,
+        "Lden": 84.6,
+        "Lnight": 64.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675690.279418265563436, 6582723.266417209059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 352,
+        "id_bui": 46,
+        "facadeP": 19.28,
+        "height_m": 54,
+        "Lden": 44.6,
+        "Lnight": 27.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675702.597352274577133, 6582756.064263557083905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 353,
+        "id_bui": 46,
+        "facadeP": 14.93,
+        "height_m": 54,
+        "Lden": 67.0,
+        "Lnight": 57.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675736.221518988022581, 6582770.495870701037347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 354,
+        "id_bui": 46,
+        "facadeP": 34.01,
+        "height_m": 54,
+        "Lden": 79.0,
+        "Lnight": 59.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675723.892699521849863, 6582737.707008320838213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 355,
+        "id_bui": 47,
+        "facadeP": 37.57,
+        "height_m": 15,
+        "Lden": 82.0,
+        "Lnight": 62.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675761.825331179075874, 6582707.133402070961893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 356,
+        "id_bui": 47,
+        "facadeP": 22.5,
+        "height_m": 15,
+        "Lden": 65.1,
+        "Lnight": 55.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675757.741756982286461, 6582721.48853746149689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 357,
+        "id_bui": 47,
+        "facadeP": 31.85,
+        "height_m": 15,
+        "Lden": 64.5,
+        "Lnight": 54.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675772.345105779008009, 6582718.477553753182292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 358,
+        "id_bui": 47,
+        "facadeP": 19.37,
+        "height_m": 15,
+        "Lden": 79.9,
+        "Lnight": 59.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675776.426421903423034, 6582704.114756371825933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 359,
+        "id_bui": 48,
+        "facadeP": 19.12,
+        "height_m": 15,
+        "Lden": 73.4,
+        "Lnight": 63.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675066.677505970001221, 6583388.187718219123781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 360,
+        "id_bui": 48,
+        "facadeP": 4.09,
+        "height_m": 15,
+        "Lden": 67.1,
+        "Lnight": 57.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675030.199702559970319, 6583415.11009583901614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 361,
+        "id_bui": 48,
+        "facadeP": 39.34,
+        "height_m": 15,
+        "Lden": 46.6,
+        "Lnight": 36.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675078.939397018635646, 6583403.218159579671919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 362,
+        "id_bui": 48,
+        "facadeP": 8.14,
+        "height_m": 15,
+        "Lden": 68.2,
+        "Lnight": 58.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675115.444052312173881, 6583376.329975934699178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 363,
+        "id_bui": 49,
+        "facadeP": 19.01,
+        "height_m": 15,
+        "Lden": 63.4,
+        "Lnight": 53.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675076.940624001552351, 6583452.180668771266937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 364,
+        "id_bui": 49,
+        "facadeP": 7.87,
+        "height_m": 15,
+        "Lden": 72.8,
+        "Lnight": 62.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675121.636905981693417, 6583476.000212791375816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 365,
+        "id_bui": 49,
+        "facadeP": 39.42,
+        "height_m": 15,
+        "Lden": 44.7,
+        "Lnight": 34.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675092.822980753728189, 6583440.88829836063087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 366,
+        "id_bui": 50,
+        "facadeP": 26.78,
+        "height_m": 15,
+        "Lden": 54.7,
+        "Lnight": 44.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675129.953689865767956, 6583438.703999160788953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 367,
+        "id_bui": 50,
+        "facadeP": 35.24,
+        "height_m": 15,
+        "Lden": 72.5,
+        "Lnight": 62.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675144.269926109933294, 6583451.762753775343299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 368,
+        "id_bui": 50,
+        "facadeP": 13.93,
+        "height_m": 15,
+        "Lden": 67.7,
+        "Lnight": 57.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675154.237440857104957, 6583427.213865697383881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 369,
+        "id_bui": 51,
+        "facadeP": 22.9,
+        "height_m": 15,
+        "Lden": 48.0,
+        "Lnight": 38.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675187.092176916776225, 6583382.241921386681497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 370,
+        "id_bui": 51,
+        "facadeP": 6.12,
+        "height_m": 15,
+        "Lden": 67.8,
+        "Lnight": 57.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675168.717716546729207, 6583412.231562022119761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 371,
+        "id_bui": 51,
+        "facadeP": 38.23,
+        "height_m": 15,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675199.983959482982755, 6583396.670327358879149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 372,
+        "id_bui": 51,
+        "facadeP": 11.64,
+        "height_m": 15,
+        "Lden": 68.8,
+        "Lnight": 58.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675218.368370823678561, 6583366.687746363691986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 373,
+        "id_bui": 52,
+        "facadeP": 33.51,
+        "height_m": 15,
+        "Lden": 47.7,
+        "Lnight": 37.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675188.802891022642143, 6583360.661188032478094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 374,
+        "id_bui": 52,
+        "facadeP": 26.87,
+        "height_m": 15,
+        "Lden": 67.5,
+        "Lnight": 57.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675204.472790323314257, 6583348.828893675468862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 375,
+        "id_bui": 53,
+        "facadeP": 22.1,
+        "height_m": 15,
+        "Lden": 73.1,
+        "Lnight": 63.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675156.883373374119401, 6583341.238526136614382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 376,
+        "id_bui": 53,
+        "facadeP": 6.17,
+        "height_m": 15,
+        "Lden": 68.0,
+        "Lnight": 58.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675132.93251793156378, 6583366.428083099424839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 377,
+        "id_bui": 53,
+        "facadeP": 40.54,
+        "height_m": 15,
+        "Lden": 47.8,
+        "Lnight": 37.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675166.921801214804873, 6583356.821216602809727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 378,
+        "id_bui": 53,
+        "facadeP": 10.91,
+        "height_m": 15,
+        "Lden": 69.0,
+        "Lnight": 59.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675190.860181374941021, 6583331.611157636158168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 379,
+        "id_bui": 54,
+        "facadeP": 12.22,
+        "height_m": 15,
+        "Lden": 72.9,
+        "Lnight": 62.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675227.696735642268322, 6583294.543349380604923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 380,
+        "id_bui": 54,
+        "facadeP": 28.88,
+        "height_m": 15,
+        "Lden": 68.1,
+        "Lnight": 58.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675233.218791020684876, 6583316.81793100386858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 381,
+        "id_bui": 54,
+        "facadeP": 34.88,
+        "height_m": 15,
+        "Lden": 46.3,
+        "Lnight": 36.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675247.936492689652368, 6583305.663747898302972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 382,
+        "id_bui": 55,
+        "facadeP": 22.81,
+        "height_m": 15,
+        "Lden": 73.1,
+        "Lnight": 63.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675259.86836917232722, 6583269.672507327981293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 383,
+        "id_bui": 55,
+        "facadeP": 38.65,
+        "height_m": 15,
+        "Lden": 48.2,
+        "Lnight": 38.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675272.406028874451295, 6583284.76969525590539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 384,
+        "id_bui": 55,
+        "facadeP": 11.85,
+        "height_m": 15,
+        "Lden": 68.1,
+        "Lnight": 58.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675291.615869460278191, 6583257.651262463070452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 385,
+        "id_bui": 56,
+        "facadeP": 19.97,
+        "height_m": 15,
+        "Lden": 48.0,
+        "Lnight": 38.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675278.596895167138427, 6583308.728944460861385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 386,
+        "id_bui": 56,
+        "facadeP": 4.65,
+        "height_m": 15,
+        "Lden": 68.7,
+        "Lnight": 58.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675251.638225942268036, 6583341.141442644409835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 387,
+        "id_bui": 56,
+        "facadeP": 40.59,
+        "height_m": 15,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675290.491772707784548, 6583324.020558707416058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 388,
+        "id_bui": 56,
+        "facadeP": 9.5,
+        "height_m": 15,
+        "Lden": 67.9,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675317.449926423840225, 6583291.607045959681273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 389,
+        "id_bui": 57,
+        "facadeP": 19.01,
+        "height_m": 15,
+        "Lden": 73.0,
+        "Lnight": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675336.862879837863147, 6583207.848001367412508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 390,
+        "id_bui": 57,
+        "facadeP": 3.85,
+        "height_m": 15,
+        "Lden": 68.4,
+        "Lnight": 58.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675307.837597362464294, 6583244.614238983020186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 391,
+        "id_bui": 57,
+        "facadeP": 41.0,
+        "height_m": 15,
+        "Lden": 47.6,
+        "Lnight": 37.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675348.044173766043968, 6583223.597819450311363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 392,
+        "id_bui": 57,
+        "facadeP": 9.13,
+        "height_m": 15,
+        "Lden": 69.0,
+        "Lnight": 59.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675377.07348939194344, 6583186.834300998598337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 393,
+        "id_bui": 58,
+        "facadeP": 21.84,
+        "height_m": 15,
+        "Lden": 48.4,
+        "Lnight": 38.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675355.48397792247124, 6583248.732050544582307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 394,
+        "id_bui": 58,
+        "facadeP": 6.2,
+        "height_m": 15,
+        "Lden": 67.6,
+        "Lnight": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675333.3396705922205, 6583278.354610220529139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 395,
+        "id_bui": 58,
+        "facadeP": 38.84,
+        "height_m": 15,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675366.857979499502108, 6583265.056699965149164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 396,
+        "id_bui": 59,
+        "facadeP": 26.53,
+        "height_m": 15,
+        "Lden": 48.2,
+        "Lnight": 38.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675381.695101902470924, 6583224.874518279917538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 397,
+        "id_bui": 59,
+        "facadeP": 16.6,
+        "height_m": 15,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675403.198756601428613, 6583237.379883241839707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 398,
+        "id_bui": 59,
+        "facadeP": 35.59,
+        "height_m": 15,
+        "Lden": 67.4,
+        "Lnight": 57.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675397.345133784576319, 6583213.031135330908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 399,
+        "id_bui": 60,
+        "facadeP": 24.26,
+        "height_m": 15,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675423.509546676534228, 6583132.415922731161118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 400,
+        "id_bui": 60,
+        "facadeP": 7.51,
+        "height_m": 15,
+        "Lden": 68.8,
+        "Lnight": 58.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675407.537065815646201, 6583159.343488790094852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 401,
+        "id_bui": 60,
+        "facadeP": 38.12,
+        "height_m": 15,
+        "Lden": 48.3,
+        "Lnight": 38.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675436.169450470828451, 6583146.457452199421823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 402,
+        "id_bui": 60,
+        "facadeP": 12.14,
+        "height_m": 15,
+        "Lden": 68.3,
+        "Lnight": 58.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675452.141938564367592, 6583119.52840768918395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 403,
+        "id_bui": 61,
+        "facadeP": 27.06,
+        "height_m": 15,
+        "Lden": 67.5,
+        "Lnight": 57.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675429.107184744789265, 6583184.998549938201904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 404,
+        "id_bui": 61,
+        "facadeP": 14.55,
+        "height_m": 15,
+        "Lden": 72.9,
+        "Lnight": 62.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675451.763306531589478, 6583197.070032483898103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 405,
+        "id_bui": 61,
+        "facadeP": 35.72,
+        "height_m": 15,
+        "Lden": 48.3,
+        "Lnight": 38.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675443.081278274068609, 6583172.171392097137868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 406,
+        "id_bui": 62,
+        "facadeP": 27.35,
+        "height_m": 15,
+        "Lden": 55.9,
+        "Lnight": 45.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675461.183746857801452, 6583160.497548282146454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 407,
+        "id_bui": 62,
+        "facadeP": 34.64,
+        "height_m": 15,
+        "Lden": 72.7,
+        "Lnight": 62.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675474.310687929508276, 6583175.156629727222025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 408,
+        "id_bui": 62,
+        "facadeP": 15.24,
+        "height_m": 15,
+        "Lden": 67.9,
+        "Lnight": 57.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675483.348028789041564, 6583152.802064786665142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 409,
+        "id_bui": 63,
+        "facadeP": 23.68,
+        "height_m": 15,
+        "Lden": 73.1,
+        "Lnight": 63.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675482.479083769954741, 6583075.90305408462882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 410,
+        "id_bui": 63,
+        "facadeP": 7.57,
+        "height_m": 15,
+        "Lden": 68.9,
+        "Lnight": 58.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675466.936013531521894, 6583104.391699088737369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 411,
+        "id_bui": 63,
+        "facadeP": 38.35,
+        "height_m": 15,
+        "Lden": 48.4,
+        "Lnight": 38.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675494.906752230483107, 6583090.634093582630157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 412,
+        "id_bui": 63,
+        "facadeP": 11.95,
+        "height_m": 15,
+        "Lden": 69.1,
+        "Lnight": 59.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675510.44605907483492, 6583062.141170101240277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 413,
+        "id_bui": 64,
+        "facadeP": 27.3,
+        "height_m": 15,
+        "Lden": 53.7,
+        "Lnight": 43.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675506.726022888207808, 6583116.817202733829618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 414,
+        "id_bui": 64,
+        "facadeP": 12.55,
+        "height_m": 15,
+        "Lden": 68.5,
+        "Lnight": 58.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675497.900112125324085, 6583139.004101323895156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 415,
+        "id_bui": 64,
+        "facadeP": 34.46,
+        "height_m": 15,
+        "Lden": 72.8,
+        "Lnight": 62.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675520.34666188119445, 6583131.225520743057132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 416,
+        "id_bui": 65,
+        "facadeP": 26.68,
+        "height_m": 15,
+        "Lden": 48.4,
+        "Lnight": 38.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675519.541217315359972, 6583099.268402554094791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 417,
+        "id_bui": 65,
+        "facadeP": 14.57,
+        "height_m": 15,
+        "Lden": 73.0,
+        "Lnight": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675543.129125108476728, 6583109.806753722950816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 418,
+        "id_bui": 65,
+        "facadeP": 36.04,
+        "height_m": 15,
+        "Lden": 67.7,
+        "Lnight": 57.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675533.562598638469353, 6583086.235211436636746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 419,
+        "id_bui": 66,
+        "facadeP": 20.26,
+        "height_m": 15,
+        "Lden": 73.1,
+        "Lnight": 63.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675566.714573520817794, 6582993.886829708702862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 420,
+        "id_bui": 66,
+        "facadeP": 4.64,
+        "height_m": 15,
+        "Lden": 69.5,
+        "Lnight": 59.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675543.671219265903346, 6583029.281393239274621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 421,
+        "id_bui": 66,
+        "facadeP": 40.35,
+        "height_m": 15,
+        "Lden": 47.3,
+        "Lnight": 37.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675580.550717480131425, 6583006.770733984187245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 422,
+        "id_bui": 66,
+        "facadeP": 8.94,
+        "height_m": 15,
+        "Lden": 69.6,
+        "Lnight": 59.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675603.600357448332943, 6582971.38356851413846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 423,
+        "id_bui": 67,
+        "facadeP": 32.81,
+        "height_m": 15,
+        "Lden": 68.0,
+        "Lnight": 58.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675560.720819128677249, 6583045.353806897997856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 424,
+        "id_bui": 67,
+        "facadeP": 29.42,
+        "height_m": 15,
+        "Lden": 47.7,
+        "Lnight": 37.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675573.916287285857834, 6583032.001622215844691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 425,
+        "id_bui": 68,
+        "facadeP": 23.63,
+        "height_m": 15,
+        "Lden": 47.6,
+        "Lnight": 37.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675592.368310419959016, 6583032.070532593876123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 426,
+        "id_bui": 68,
+        "facadeP": 6.86,
+        "height_m": 15,
+        "Lden": 69.6,
+        "Lnight": 59.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675577.064312741858885, 6583061.638904198072851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 427,
+        "id_bui": 68,
+        "facadeP": 38.65,
+        "height_m": 15,
+        "Lden": 73.0,
+        "Lnight": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675605.768081455375068, 6583045.162249410524964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 428,
+        "id_bui": 69,
+        "facadeP": 27.63,
+        "height_m": 15,
+        "Lden": 48.0,
+        "Lnight": 38.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675611.881108947796747, 6583006.805265045724809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 429,
+        "id_bui": 69,
+        "facadeP": 15.22,
+        "height_m": 15,
+        "Lden": 73.0,
+        "Lnight": 63.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675634.541981688002124, 6583015.532586733810604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 430,
+        "id_bui": 69,
+        "facadeP": 34.83,
+        "height_m": 15,
+        "Lden": 68.2,
+        "Lnight": 58.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675625.668477759696543, 6582993.279335347935557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 431,
+        "id_bui": 70,
+        "facadeP": 13.92,
+        "height_m": 21,
+        "Lden": 72.2,
+        "Lnight": 62.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675664.996778236120008, 6582898.146164403297007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 432,
+        "id_bui": 70,
+        "facadeP": 3.04,
+        "height_m": 21,
+        "Lden": 68.4,
+        "Lnight": 58.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675630.227951594162732, 6582950.597706399857998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 433,
+        "id_bui": 70,
+        "facadeP": 41.23,
+        "height_m": 21,
+        "Lden": 67.0,
+        "Lnight": 57.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675683.001600027200766, 6582917.009218312799931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 434,
+        "id_bui": 70,
+        "facadeP": 8.41,
+        "height_m": 21,
+        "Lden": 69.2,
+        "Lnight": 59.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675717.770292889443226, 6582864.559678940102458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 435,
+        "id_bui": 71,
+        "facadeP": 23.36,
+        "height_m": 15,
+        "Lden": 67.6,
+        "Lnight": 57.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675720.343105360749178, 6582904.963188957422972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 436,
+        "id_bui": 71,
+        "facadeP": 21.12,
+        "height_m": 15,
+        "Lden": 73.4,
+        "Lnight": 63.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675742.372572955093347, 6582908.343840493820608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_pt": 437,
+        "id_bui": 71,
+        "facadeP": 28.81,
+        "height_m": 15,
+        "Lden": 68.9,
+        "Lnight": 58.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675738.9490027197171, 6582886.273193053901196]
+      }
+    }
+  ]
+}
