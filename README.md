@@ -22,6 +22,8 @@ The iTwin Viewer includes the following features:
 
 ## In Action
 
+https://github.com/g3rezz/noise-itwin-viewer/assets/19578037/4e44c6b7-b788-4cc4-a182-e8ce11ee51cc
+
 # iTwin Viewer Setup
 
 ## 1. Get Started
