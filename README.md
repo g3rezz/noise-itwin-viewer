@@ -1,8 +1,8 @@
-# <img width="50" height="50" src="data/logo.svg" /> CampusWest.noiseTwin
+# <img width="50" height="50" src="data/logo.svg" /> CampusWest.noiseTwin()
 
 ## A Noise Pollution iTwin Viewer
 
-`CampusWest.noiseTwin` is a prototype iTwin Viewer developed on [Bentley System's](https://www.bentley.com/) [iTwin Platform](https://www.itwinjs.org/) to address noise pollution. It was created during the Prototyping Project in the third semester of the Construction and Robotics master's track at the RWTH Aachen University.
+`CampusWest.noiseTwin()` is a prototype iTwin Viewer developed on [Bentley System's](https://www.bentley.com/) [iTwin Platform](https://www.itwinjs.org/) to address noise pollution. It was created during the Prototyping Project in the third semester of the Construction and Robotics master's track at the RWTH Aachen University.
 
 The viewer aims to represent in 3D how noise affects the future buildings on the Campus West expansion of RWTH Aachen University.
 
